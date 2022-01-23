@@ -105,7 +105,7 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.headline4,
             ),
             CupertinoButton(
-              child: Text('HI'),
+              child: Text('Hi'),
               onPressed: () {},
               color: Colors.blue,
             )
